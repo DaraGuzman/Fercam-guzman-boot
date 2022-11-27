@@ -22,7 +22,7 @@ form{background: linear-gradient(rgba(72, 71, 71, 0.792),gray,black)}
         75%{transform:translateY(35px); }
         100%{transform: rotate(3deg);}
     }
-     header div img{
+     .Logo{
          animation-name: animacionLogo;
          animation-iteration-count: infinite;
          animation-timing-function: ease-in-out;
