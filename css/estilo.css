@@ -15,3 +15,6 @@ h1,h2 , p {
 .black{
     color:black
 }
+form{
+     background: linear-gradient(black,rgba(72, 71, 71, 0.792),gray,black)
+}
