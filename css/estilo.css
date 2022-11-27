@@ -29,10 +29,4 @@ form{background: linear-gradient(rgba(72, 71, 71, 0.792),gray,black)}
          animation-duration: 5s;
      } 
     
-     footer img{
-         animation-name: animacionLogo;
-         animation-iteration-count: infinite;
-         animation-timing-function: ease-in-out;
-         animation-duration: 5s;
-     } 
 }
